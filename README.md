@@ -36,14 +36,6 @@
 - ✉️ EmailJS  
 - 📦 Deployed on Vercel / Netlify  
 
----
-
-## 🌐 Live Demo
-
-[GoRafts Adventure Website](https://your-live-demo-link.com)
-
----
-
 ## 📂 Folder Structure (Simplified)
 
 GoRafts/
@@ -84,9 +76,9 @@ npm run dev
 
 
 👨‍💻 Authors
-Aman Nakoti – Frontend & React Development
+Aman Nakoti and Kshitiz Kothari – Frontend & React Development  – UI/UX & Design
 
-Kshitiz Kothari – UI/UX & Design
+
 
 📝 License / Copyright
 © 2025 Aman Nakoti & Kshitiz Kothari. Licensed to GoRafts for use only.
