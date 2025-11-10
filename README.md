@@ -51,7 +51,7 @@ GoRafts/
 └─ tailwind.config.js
 
 yaml
-Copy code
+Copy this code
 
 ---
 
